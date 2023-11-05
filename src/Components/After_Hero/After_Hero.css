@@ -1,0 +1,15 @@
+.after_hero{
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.clothing img{
+    width: 300px;
+}
+
+.clothing {
+    text-align: center;
+}
