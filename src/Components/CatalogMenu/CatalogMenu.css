@@ -1,0 +1,4 @@
+.catalog_menu{
+    display: flex;
+    justify-content: space-between;
+}

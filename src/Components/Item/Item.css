@@ -1,0 +1,38 @@
+.item {
+    border-radius: 30px;
+    width: 300px;
+    height: 440px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 20.86111px 55.44445px 0px #F2F5FA;
+
+}
+
+.item img{
+    padding-top: 15px;
+    border-radius: 50px;
+    width: 250px;
+    height: 300px;
+}
+
+.item p {
+    margin: 6px 0;
+}
+
+.item_prices {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.item_price {
+    color: #374151;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.item:hover{
+    transform: scale(1.05);
+    transition: 0.6s;
+}
