@@ -1,0 +1,13 @@
+.filter_2_btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    margin: 10px 10px;
+}
+
+.filter_2_btn:hover{
+    transition: 0.1s ease-in-out;
+    color: white;
+    background-color: blue;
+}
