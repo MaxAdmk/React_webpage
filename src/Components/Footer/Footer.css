@@ -1,0 +1,48 @@
+.top_line{
+    margin: 0 auto;
+    opacity: 20%;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.top_footer{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img{
+    width: 60px;
+}
+
+.social_media_logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.social_media_logo img{
+    width: 30px;
+    height: 30px;
+}
+
+.divide_line{
+    margin: 0 auto;
+    width: 80%;
+    opacity: 20%;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.bot_footer{
+    margin: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bot_footer p{
+    font-size: 12px;
+}

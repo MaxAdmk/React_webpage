@@ -1,0 +1,22 @@
+.quantity-input {
+    display: flex;
+    max-width: 100px;
+    margin-bottom: 10px;
+}
+
+.quantity-btn {
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    outline: none;
+}
+
+.quantity-display {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
