@@ -1,0 +1,13 @@
+.view_more_btn {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+
+.view_more_btn:hover{
+    transition: 0.1s ease-in-out;
+    color: white;
+    background-color: blue;
+}
