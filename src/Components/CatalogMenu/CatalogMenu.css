@@ -1,0 +1,33 @@
+.catalog_menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter{
+    background-color: rgba(118, 118, 118, 0.2);
+    padding: 0px 15px;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    margin: 10px 10px;
+}
+
+select{
+    text-align: center;
+    appearance: none;
+}
+
+.apply_btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    margin: 10px 10px;
+}
+
+.apply_btn:hover{
+    transition: 0.1s ease-in-out;
+    color: white;
+    background-color: blue;
+}
