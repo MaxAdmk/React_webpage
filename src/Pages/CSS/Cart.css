@@ -1,0 +1,44 @@
+.cart{
+    margin-bottom: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+li{
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+
+img{
+    width: 200px;
+}
+
+.remove_btn{
+    background-color: #ffffff;
+    border: none;
+    height: 54px;
+    width: 55px;
+    padding: 0;
+}
+
+.remove_btn:hover{
+    transition: 0.1s ease-in-out;
+    border: 2px solid blue;
+    border-radius: 1000px;
+}
+
+.remove_btn img{
+    width: 50px;
+    padding: 0;
+}
